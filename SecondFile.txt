@@ -1,0 +1,5 @@
+git status  to see thestatus of our working directory.
+
+ git config --global user.email "yesratj@yahoo.com"
+  git config --global user.name "yesrat jasmin"
+this is my second File
